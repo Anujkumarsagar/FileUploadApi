@@ -179,3 +179,15 @@ exports.videoUpload = async (req, res) => {
 }
 
 // exports.reduceFile = async(r)
+
+
+// DB - enrty - main bhej do
+
+// 2 middleware hote  hai mongoose mein pre aur post jo fucntion chala dete hi jab enrty create hoti hai ya ussse pahle chala do
+
+// schema.post("init/ validate/ save/ remove", function(req,res)=>{
+
+// })
+
+
+// nodemailer -> for sending mail
