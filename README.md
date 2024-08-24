@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 📦 File Upload & Notification System
 
@@ -82,6 +81,4 @@ The **File Upload & Notification System** is a robust Node.js application that e
 
 Upon successful upload of an image or video, an email will be sent to the provided email address with details about the uploaded file.
 
-=======
-File Upload API for Upload images and video on Cloudinary
->>>>>>> 52e8ece4f7d57a5647867ae5097bf8abc3ce68c6
+
